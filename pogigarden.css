@@ -47,6 +47,9 @@ main ul li a{
    color: white;
    padding-top: 1rem;
 }
+input{
+    accent-color: #04AA6D;
+}
 .btn{
     border-radius: 2rem;
     border: 2px solid #333;
@@ -83,6 +86,11 @@ main ul li a{
     main h1{
         font-size: 3.8rem;
     }
+}
+
+::selection{
+    background-color: #04AA6D;
+    color: white;
 }
 
 /* Notify Modal */
