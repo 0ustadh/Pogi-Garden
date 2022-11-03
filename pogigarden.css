@@ -98,7 +98,7 @@ input{
     box-sizing: border-box;
     padding: 10%;
 }
-#notify h1{
+#notify h2{
     font-family: The Seasons Regular, serif;
 }
 #notify p, #notify label{
